@@ -7,3 +7,14 @@
 I need to get back on track with Python so I'm starting with that. Other things might follow later on.
 
 Wish me luck!
+
+## Day 1
+
+Back to basics
+
+## Day 2
+
+Some lambdas
+## Day 3
+
+C++, not as cool as Python
