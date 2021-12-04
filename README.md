@@ -14,7 +14,12 @@ Back to basics
 
 ## Day 2
 
-Some lambdas
+Python again, some lambdas
+
 ## Day 3
 
 C++, not as cool as Python
+
+## Day 4
+
+C++ again. This language is straight not fun. Ugh.

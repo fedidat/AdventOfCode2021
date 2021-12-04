@@ -42,6 +42,12 @@
         "iterator": "cpp",
         "memory_resource": "cpp",
         "random": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "bitset": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "regex": "cpp",
+        "map": "cpp",
+        "set": "cpp"
     }
 }
