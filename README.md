@@ -23,3 +23,7 @@ C++, not as cool as Python
 ## Day 4
 
 C++ again. This language is straight not fun. Ugh.
+
+## Day 5
+
+Python makes complex thinking and iteration much easier.
