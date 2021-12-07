@@ -31,3 +31,7 @@ Python makes complex thinking and iteration much easier.
 ## Day 6
 
 Another easy Python day.
+
+## Day 7
+
+Starting with the maths problem! Not sure how to optimally solve step 2.
