@@ -35,3 +35,7 @@ Another easy Python day.
 ## Day 7
 
 Starting with the maths problem! Not sure how to optimally solve step 2.
+
+## Day 8
+
+This would have been a nightmare in a non-scripting language.
