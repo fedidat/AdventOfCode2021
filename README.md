@@ -39,3 +39,11 @@ Starting with the maths problem! Not sure how to optimally solve step 2.
 ## Day 8
 
 This would have been a nightmare in a non-scripting language.
+
+## Day 9
+
+Back to Rust. Tough to come back but very cool. Not a good prototyping language though.
+
+## Day 10
+
+I tried to do this in Dlang but didn't have time so back to Python today.
