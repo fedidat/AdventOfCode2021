@@ -51,3 +51,7 @@ I tried to do this in Dlang but didn't have time so back to Python today.
 ## Day 11
 
 Dlang is not as enjoyable as I remembered. Maybe the pain of picking it up again, but mostly it doesn't feel mature and popular enough.
+
+## Day 12
+
+Back to Python with a cool traversal algorithm. Not very fast though, takes 8s.
