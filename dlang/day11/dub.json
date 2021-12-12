@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"ben"
+	],
+	"copyright": "Copyright © 2021, ben",
+	"dependencies": {
+		"dub": "~>1.27.0"
+	},
+	"description": "AdventOfCode 2021 day 10",
+	"license": "GPLv3",
+	"name": "day11"
+}
