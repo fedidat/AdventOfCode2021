@@ -55,3 +55,7 @@ Dlang is not as enjoyable as I remembered. Maybe the pain of picking it up again
 ## Day 12
 
 Back to Python with a cool traversal algorithm. Not very fast though, takes 8s.
+
+## Day 13
+
+Going back for a while with Java 15. Feels similarly easy to handle compared with Python.
