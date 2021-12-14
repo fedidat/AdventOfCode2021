@@ -59,3 +59,7 @@ Back to Python with a cool traversal algorithm. Not very fast though, takes 8s.
 ## Day 13
 
 Going back for a while with Java 15. Feels similarly easy to handle compared with Python.
+
+## Day 14
+
+A bit of difficulty for once but so far easier than previous years.
