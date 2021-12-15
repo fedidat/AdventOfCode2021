@@ -63,3 +63,7 @@ Going back for a while with Java 15. Feels similarly easy to handle compared wit
 ## Day 14
 
 A bit of difficulty for once but so far easier than previous years.
+
+## Day 15
+
+Difficulty ramping up, Dijkstra was hard for me to remember and implement correctly with a grid.
