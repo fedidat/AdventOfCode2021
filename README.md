@@ -67,3 +67,7 @@ A bit of difficulty for once but so far easier than previous years.
 ## Day 15
 
 Difficulty ramping up, Dijkstra was hard for me to remember and implement correctly with a grid.
+
+## Day 16
+
+This was so tedious! Not sure Python helped this time. I regret not doing this with Java.
