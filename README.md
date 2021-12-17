@@ -71,3 +71,6 @@ Difficulty ramping up, Dijkstra was hard for me to remember and implement correc
 ## Day 16
 
 This was so tedious! Not sure Python helped this time. I regret not doing this with Java.
+## Day 17
+
+Lots of thinking this time.
