@@ -74,3 +74,7 @@ This was so tedious! Not sure Python helped this time. I regret not doing this w
 ## Day 17
 
 Lots of thinking this time.
+
+## Day 18
+
+After hours dealing with strings, I gave up and adopted a solution, too bad.
