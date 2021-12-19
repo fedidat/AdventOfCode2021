@@ -78,3 +78,7 @@ Lots of thinking this time.
 ## Day 18
 
 After hours dealing with strings, I gave up and adopted a solution, too bad.
+
+## Day 19
+
+Once again gave up, the space of solutions ended up too large and I didn't get the correct intuition for comparing dimension shifts.
