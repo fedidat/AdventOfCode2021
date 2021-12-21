@@ -85,4 +85,8 @@ Once again gave up, the space of solutions ended up too large and I didn't get t
 
 ## Day 20
 
-I saw the method[0] twist coming a mile away but still had a lot of trouble with edge cases. It's not pretty but it works pretty well!
+I saw the `method[0]` twist coming a mile away but still had a lot of trouble with edge cases. It's not pretty but it works pretty well!
+
+## Day 21
+
+That was fun and clever! Python was such a good fit for this memoization trick to be done elegantly.
