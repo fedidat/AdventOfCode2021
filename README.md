@@ -82,3 +82,7 @@ After hours dealing with strings, I gave up and adopted a solution, too bad.
 ## Day 19
 
 Once again gave up, the space of solutions ended up too large and I didn't get the correct intuition for comparing dimension shifts.
+
+## Day 20
+
+I saw the method[0] twist coming a mile away but still had a lot of trouble with edge cases. It's not pretty but it works pretty well!
