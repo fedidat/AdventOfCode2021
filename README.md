@@ -90,3 +90,7 @@ I saw the `method[0]` twist coming a mile away but still had a lot of trouble wi
 ## Day 21
 
 That was fun and clever! Python was such a good fit for this memoization trick to be done elegantly.
+
+## Day 22
+
+The key for me was thinking in terms of regular circles, e.g how to add a circle without counting the intersection twice, how to add a third one?
