@@ -94,3 +94,7 @@ That was fun and clever! Python was such a good fit for this memoization trick t
 ## Day 22
 
 The key for me was thinking in terms of regular circles, e.g how to add a circle without counting the intersection twice, how to add a third one?
+
+## Day 23
+
+Another annoying problem, learned to use lru_cache.
