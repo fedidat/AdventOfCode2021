@@ -15,3 +15,5 @@ Languages ranked from subjectively best to worst:
 - Java (day 13) will always pretty cool, no-nonsense and practical.
 - Coming back to Dlang (day 11), it's not as enjoyable as I remembered.
 - C++ (days 3 and 4) is just not fun at all.
+
+### THAT'S IT! SEE YOU IN 2022!!!
